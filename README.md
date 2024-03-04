@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @siontm
+- 👀 I’m interested in FiveM development
+- 🌱 I’m currently learning lua and discord.js
+- 📫 How to reach me on Discord: siontm
